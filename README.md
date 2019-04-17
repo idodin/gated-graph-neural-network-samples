@@ -1,3 +1,11 @@
+# COMP 551: Final Project
+This repository contains required source code and conducted experiments that test the robustness of the Gated Graph Neural Network (GGNN) model used in [Alamanis et al.](https://openreview.net/pdf?id=BJOFETxR-) which outlines an approach to Learning Program Graph Representation to detect both Variable Misuse and Variable Misnaming in source code. 
+
+To view conducted experiments for the report, open the `551_Experiments.ipynb` file found in this repository.
+
+**Please note that the contents of the original README.md for the authors' provided code are maintained below for your facility of use.**
+
+
 # Gated Graph Neural Networks
 This repository contains two implementations of the Gated Graph Neural Networks
 of [Li et al. 2015](https://arxiv.org/abs/1511.05493) for learning properties of chemical molecules.
